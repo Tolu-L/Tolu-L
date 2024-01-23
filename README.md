@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tolu-L
+- 👋 Hi, I’m Tolu
 - 👀 I’m interested in Data Science roles
-- I am Insight Witch and a wheel of innovation
+- 🎡 I am Insight Witch and a wheel of innovation
 - 🌱 I’m currently learning Python and SQL
-- Here for R's superiority
+- 💪🏾 Here for R's superiority
 - 💞️ I’m looking to collaborate on data analytics projects
 
 <!---
